@@ -1,4 +1,4 @@
-age	fnlwgt
+age	income
 25	226802
 38	89814
 28	336951
